@@ -92,7 +92,7 @@ Now gravity is an acceleration in the downward vertical domain.  We can `+=` the
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-With some trial and error try different values. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Through trial and error, settle on a value you like!
+With some trial and error try different values. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Through trial and error, settle on a value you like.  I settled on `0.75` pixels per frame as my favorite value.
 
 https://user-images.githubusercontent.com/5504953/151717264-224f7f4e-0602-436e-a9fe-4a7d2982a23e.mp4
 
