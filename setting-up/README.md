@@ -83,7 +83,9 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
+
+![alt_text](images/addGroundLayer.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
