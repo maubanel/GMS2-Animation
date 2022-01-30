@@ -92,7 +92,7 @@ Now gravity is an acceleration in the downward vertical domain.  We can `+=` the
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-With some trial and error try different values and settle on one you like!
+With some trial and error try different values. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Through trial and error, settle on a value you like!
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
