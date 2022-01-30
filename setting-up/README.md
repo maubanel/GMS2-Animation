@@ -15,7 +15,8 @@ Lets look at a ball animation and start the project up.
 
 ##### `Step 1.`\|`BTS`|:small_blue_diamond:
 
-Please watch this video on how an animator would go about animating a 2-d ball using traditional techniques.
+Please click and watch this video on how an animator would go about animating a 2-d ball using traditional techniques.
+
 [![how to animate a ball in 2d](https://img.youtube.com/vi/oJvGHbUHYWU/0.jpg)](https://www.youtube.com/watch?v=oJvGHbUHYWU)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
