@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-Open the room and select the **Instances** layer.  Drag **Obj_Ball** onto the ground plane.  If the ball doesn't snap to the ground plane redraw it so it lines up with the ball's snap point.  It should look like so.
+Open the room and select the **Instances** layer.  Drag **Obj_Ball** onto the ground plane.  If the ball doesn't snap to the ground plane redraw it so it lines up with the ball's snap point.  It should look like so. When you are happy *double click* on the object instance in the room.
 
 ![add ball to room](images/putBallInRoom.png)
 
@@ -60,7 +60,9 @@ Open the room and select the **Instances** layer.  Drag **Obj_Ball** onto the gr
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now record the value of the **Y** position in the room (yours may be different than mine).  This is value we will use to determine when to bounce the ball. In my case **Y** is at `544`.
+
+![record value of Y](images/544magicnumber.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
