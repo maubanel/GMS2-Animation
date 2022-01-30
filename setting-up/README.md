@@ -43,9 +43,9 @@ Now you will go to a screen that says it will take some time to create the proje
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now you give the app permission and select the directory of where you would like to clone.  When you decide press the <kbd>Clone</kbd> button.
 
-
-![](images/.png)
+![clone the GitHub repository](images/cloneRepo.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
