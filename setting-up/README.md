@@ -51,13 +51,17 @@ Now you give the app permission and select the directory of where you would like
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Navigate to the project and open **GMS2-Animation.yyp**.
+
+![open gms2-animation.yyp gamemaker file](images/GMS2-Animation.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you have a basic empty **GML** project with a **Room0** and a sprite for a tile to mimic the line in the video above.
+
+![room line sprite](images/room_line.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
