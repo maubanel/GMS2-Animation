@@ -118,6 +118,8 @@ In code that would be:
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game and we have a perfectly elastic bounce.
 
+https://user-images.githubusercontent.com/5504953/151717570-7cff0268-b258-4241-966d-32f8a2937eb3.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
