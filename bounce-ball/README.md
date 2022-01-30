@@ -46,15 +46,15 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 *Right click* on **Objects** and select **New | Object** and name it `obj_ball`. Set the **Sprite** to `spr_ball`.
 
-![alt_text](images/obj_ball.png)
+![add obj_ball object and assign ball sprite](images/obj_ball.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
+Open the room and select the **Instances** layer.  Drag **Obj_Ball** onto the ground plane.  If the ball doesn't snap to the ground plane redraw it so it lines up with the ball's snap point.  It should look like so.
 
-
-![alt_text](images/putBallInRoom.png)
+![add ball to room](images/putBallInRoom.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
