@@ -25,19 +25,27 @@ Please click and watch this video on how an animator would go about animating a 
 
 Accept the **[Git Hub Classroom Link](https://classroom.github.com/a/C3wXzkmi)** with the starter project. Press the <kbd>Accept this assignment</kbd> button.
 
-![alt_text](images/acceptAssignment.png)
+![accept github classroom assignment](images/acceptAssignment.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you will go to a screen that says it will take some time to create the project.  Press the refresh on your browser and you will see a link to your newly created **GitHub** repository.  Click the link.  The press the <kbd>Code</kbd> button and select `Open with GitHub Desktop`.
+
+![press browser refresh](images/refeshBrowser.png)
+
+![link to github repository](images/linkToRepo.png)
+
+![press code and open with github desktop](images/openWithGitHubDT.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+
+
+![](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
