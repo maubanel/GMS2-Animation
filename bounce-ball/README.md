@@ -25,11 +25,11 @@ You can work on a large canvas and scale down, or work in actual size.  When dra
 
 Deselect the white background so it is on an Alpha.  We just want to see the ball outline. Select **Image | Trim** and trim all four corners to **Transparent Pixels**.  Press the <kbd>OK</kbd> button.
 
-https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
-
 Select **Image | Image Size**. Scale the longest axis to   `128`.  Press the **Image | Image Canvas** and set the other axis to `128` and make sure the ball stays on the bottom of the frame.
 
 Press **File | Quick Export as PNG** and call it `spr_ball_1` and press <kbd>Save</kbd>.
+
+https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
 
 ![alt_text](images/.png)
 
