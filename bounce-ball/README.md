@@ -107,6 +107,8 @@ To add a bounce we need to solve the physics after the **vspeed** has been proce
 3.  To make the object move in the opposite direction all we need to do is reverse the sign of the number.
 4.  Most likely the ball is past the ground, set it back on the ground plane
 
+In code that would be:
+
 ![add bounce to end step](images/endStep.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
