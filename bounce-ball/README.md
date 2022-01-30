@@ -52,7 +52,9 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+
+
+![alt_text](images/putBallInRoom.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
