@@ -31,13 +31,14 @@ Press **File | Quick Export as PNG** and call it `spr_ball_1` and press <kbd>Sav
 
 https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
 
-![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+*Right click* on **Sprites** and select **New | Sprite** and name it `spr_ball`. Press the <kbd>Import</kbd> button and import the sprite you just created. Now you should have a dark ball imported into the sprite.
+
+![import drawn ball to spr_ball](images/importBall.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
