@@ -23,6 +23,8 @@ Please click and watch this video on how an animator would go about animating a 
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
+Accept the **[Git Hub Classroom Link](https://classroom.github.com/a/C3wXzkmi) with the starter project.
+
 ![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
