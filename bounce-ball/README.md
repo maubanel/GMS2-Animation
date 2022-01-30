@@ -44,7 +44,9 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+*Right click* on **Objects** and select **New | Object** and name it `obj_ball`. Set the **Sprite** to `spr_ball`.
+
+![alt_text](images/obj_ball.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
