@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+In the video you watched the physics were created by the animator.  They move the ball accross the screen.  The wider the distance per frame the faster the ball seems to move.  In games, objects move based on game physics.  So we do not animated translation just the different poses of the ball.  
 
 <br>
 
@@ -15,7 +15,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`BTS`|:small_blue_diamond:
 
-![alt_text](images/.png)
+You can work on a large canvas and scale down, or work in actual size.  When drawing with a tablet I like to work on a larger image then scale down. Pick any 2-D pixel art package like **Photoshop** or **ProCreate**.  Select a separate white layer for the background and a layer for the ball.  Pick a pencil tool to make it look more old school.  I selected a 1024 x 1024 square that I will scale down later.  I drew a circle in the center with room for the bounce (wider) and stretch (diagonal) so all the key frames will fit in this shape.  It should look something like the below.
+
+![hand drawn ball on white background in photoshop](images/SingleBallFrame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
