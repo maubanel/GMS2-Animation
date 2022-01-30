@@ -94,6 +94,7 @@ Now gravity is an acceleration in the downward vertical domain.  We can `+=` the
 
 With some trial and error try different values and settle on one you like!
 
+https://user-images.githubusercontent.com/5504953/151717264-224f7f4e-0602-436e-a9fe-4a7d2982a23e.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
