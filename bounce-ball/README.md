@@ -166,6 +166,7 @@ One of the nice thing about hand animation is that each frame of the ball is not
 
 Go back into your paint and draw on separate layers 5 more balls freehand with the same pencil tools.
 
+https://user-images.githubusercontent.com/5504953/151718921-c3cbf2cb-0a67-43b8-826e-e4e13c5e5cea.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
