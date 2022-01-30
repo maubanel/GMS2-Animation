@@ -105,6 +105,7 @@ To add a bounce we need to solve the physics after the **vspeed** has been proce
 1.  Check to see if the ball is at or past the ground plane
 2.  If it is add one extra unit of gravity to maintain a perfectly elastic bounce (next frame will remove one tick of gravity).  We don't want any friction.
 3.  To make the object move in the opposite direction all we need to do is reverse the sign of the number.
+4.  Most likely the ball is past the ground, set it back on the ground plane
 
 ![add bounce to end step](images/endStep.png)
 
