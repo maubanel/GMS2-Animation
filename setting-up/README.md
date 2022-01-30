@@ -67,6 +67,8 @@ Now you have a basic empty **GML** project with a **Room0** and a sprite for a t
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Rename the room to `rm_ball_bounce`. Open the room up and select the **Background** layer.  *Double click* the **Colour** button and select the second most **white** white.  I don't like picking pure white for an entire background as it is too much on the eyes.
+
 ![alt_text](images/setBackgroundColor.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
