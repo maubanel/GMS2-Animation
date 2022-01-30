@@ -75,7 +75,7 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-*Right click* on **Tiles** and select **New | Tile** and name it `tl_pencil_line`.
+*Right click* on **Tiles** and select **New | Tile** and name it `tls_pencil_line`.
 
 ![alt_text](images/pencilLineTS.png)
 
