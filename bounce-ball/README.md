@@ -68,19 +68,25 @@ Now record the value of the **Y** position in the room (yours may be different t
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Notice that the ball just sites there doing nothing.  That is because the animator will not move the ball, the physics will!
+
+![still ball on ground in game](images/ballDoesNothing.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we want the ball to fall.  Move it to the top of the map so it has room to fall.
+
+![move ball to top of level](images/moveBallUp.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now gravity is an acceleration in the downward vertical domain.  We can `+=` the `vspeed` by an amount to get gravity.  Now we know gravity is 9.1 meters per second.  But what is it in pixels per frame in gamemaker.  Open up **obj_ball**.  Press the <kbd>Add Event</kbd> and select a **Step | Step** event.  Lets guess an acceleration of `.1` pixels per frame.
+
+![add step event and gravity](images/addGravity.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
