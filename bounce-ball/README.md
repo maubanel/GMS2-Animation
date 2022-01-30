@@ -171,6 +171,8 @@ Go back into your paint and draw on separate layers 5 more balls freehand with t
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Then you should have multiple layers like so.  With all selected remove the background, trim and rescale to be `128` by `128`.  Then export them one at a time with `spr_ball_1` through `spr_ball_6` with different ball drawings all one on top of each other.
+
 ![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
