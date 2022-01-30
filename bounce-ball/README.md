@@ -148,7 +148,8 @@ https://user-images.githubusercontent.com/5504953/151718260-bdebb4f3-f4da-4ff1-a
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Press the <kbd>Add Event</kbd> and select a **Create** event. Replace the two magic numbers with `ball_friction` and `ball_gravity`.  This way we can tune them in the **Create Event** and leave magic numbers out of the step events.  Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game, there should be no difference.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
