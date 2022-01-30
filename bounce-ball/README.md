@@ -132,13 +132,16 @@ Now in the video there is a non-elastic bounce.  The ball bounces less high as i
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Go back to **obj_ball | End Step Event** and make the bounce inelastic.  Reduce the speed by `1` unit of **vspeed** each time the ball bounces.
+
+![make inelastic bounce](images/makeInelasticBounce.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.  Change the value, the smaller the number the more bounces, the higher the number the fewer bounces.  I settled on `5` trying to match the video as close as I could.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
