@@ -77,7 +77,7 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 *Right click* on **Tiles** and select **New | Tile** and name it `ts_pencil_line`.
 
-![alt_text](images/pencilLineTS.png)
+![add new tile called ts_pencil_line](images/pencilLineTS.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -85,13 +85,15 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
 
-![alt_text](images/addGroundLayer.png)
+![create Grond tile layer and add ts_pencil_line to it](images/addGroundLayer.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Select the tile layer and the pencil tool and start to draw a line along the bottom of the screen. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
