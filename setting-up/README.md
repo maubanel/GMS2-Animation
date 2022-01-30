@@ -93,6 +93,9 @@ Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`
 
 Select the tile layer and the pencil tool and start to draw a line along the bottom of the screen. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. You should have a white-ish background with a pencil line ground plane at the bottom (I drew it in **ProCreate** on my ipad).
 
+https://user-images.githubusercontent.com/5504953/151715425-c6bfc3bb-72eb-4079-b7fa-c0cef79956e2.mp4
+
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
