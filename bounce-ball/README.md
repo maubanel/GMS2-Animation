@@ -142,6 +142,7 @@ Go back to **obj_ball | End Step Event** and make the bounce inelastic.  Reduce 
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.  Change the value, the smaller the number the more bounces, the higher the number the fewer bounces.  I settled on `5` trying to match the video as close as I could.
 
+https://user-images.githubusercontent.com/5504953/151718260-bdebb4f3-f4da-4ff1-a6f4-219be11083f4.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
