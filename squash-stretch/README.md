@@ -134,15 +134,15 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+So add three layers and draw three small squash frames.  Then you will need to rescale and resize back to `128` to `128` for all frames again!  This time you will add the four exports of `spr_small_squash-1.png`, `spr_small_squash-2.png`, `spr_small_squash-3.png`, `spr_small_squash-4.png`.
+
+![add three more small squash frames](images/draw3MoreIdles.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So add three layers and draw three small squash frames.  Then you will need to rescale and resize back to `128` to `128` for all frames again!  This time you will add the four exports of `spr_small_squash-1.png`, `spr_small_squash-2.png`, `spr_small_squash-3.png`, `spr_small_squash-4.png`.
-
-![add three more small squash frames](images/draw3MoreIdles.png)
+![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
