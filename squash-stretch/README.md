@@ -23,13 +23,17 @@ Now the next step in the video was to add a **squash** to the animation on the b
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now draw on top of the balls with two more squash levels.  One large one and a small one with a bit of a flat bottom.
+
+![two levels of squash](images/twoSquashLevels.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Turn all layers on. Now the problem when we trim and clip these that the ball we have will get smaller proportionally to the squash.  So we need to re-export the news and hold frames.
+
+![all ball and squash layers](images/allLayersOn.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
