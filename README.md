@@ -18,6 +18,7 @@ In this walk through:
 
 * Review of 2-D Ball Bounce
 * Ball Bounce in Game
+* Horizontal Movement
 * Animating a Run Cycle
 * Importing Animations
 * Player movement with keyboard and gamepad
@@ -31,6 +32,9 @@ In this walk through:
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
 
 <kbd></kbd> &nbsp;&nbsp; [Get Ball to Bounce](bounce-ball/README.md#user-content-get-ball-to-bounce) <br>
+>
+
+<kbd></kbd> &nbsp;&nbsp; [Horizontal Movement](horizontal-movement/README.md#user-content-horizontal-movement) <br>
 >
 
 <!-- LICENSE -->
