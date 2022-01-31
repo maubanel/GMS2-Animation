@@ -47,15 +47,15 @@ Now what we will do is reduce the speed by a fraction on each bounce.  Lets open
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now everytime the ball collides with the ground reduce the overall speed of the ball.  Go to the **obj_ball | End Step** event and remove 60% of the horizontal speed.
+
+![remove 60% of horizontal speed on ground collision](images/hspeedEndStep.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-Now everytime the ball collides with the ground reduce the overall speed of the ball.  Go to the **obj_ball | End Step** event and remove 60% of the horizontal speed.
-
-![remove 60% of horizontal speed on ground collision](images/hspeedEndStep.png)
+![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
