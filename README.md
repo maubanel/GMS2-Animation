@@ -37,7 +37,7 @@ In this walk through:
 
 <kbd></kbd> &nbsp;&nbsp; [Horizontal Movement](horizontal-movement/README.md#user-content-horizontal-movement) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [Squash and Stretch](squach-stretch/README.md#user-content-squash-and-stretch) <br>
+<kbd></kbd> &nbsp;&nbsp; [Squash and Stretch](squash-stretch/README.md#user-content-squash-and-stretch) <br>
 >
 
 <!-- LICENSE -->
