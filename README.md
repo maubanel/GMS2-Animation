@@ -17,8 +17,9 @@ This is a just a primer on game animation and not a detailed guide.  It is just 
 In this walk through:
 
 * Review of 2-D Ball Bounce
-* Ball Bounce in Game
-* Horizontal Movement
+* Ball Bounce in Game. Get the ball bounce to match the video.
+* Horizontal Movement.  Have the ball move from left to right.
+* Squash and Stretch.  Make the ball squish when hitting the ground and stretch on the bounce.
 * Animating a Run Cycle
 * Importing Animations
 * Player movement with keyboard and gamepad
@@ -36,7 +37,7 @@ In this walk through:
 
 <kbd></kbd> &nbsp;&nbsp; [Horizontal Movement](horizontal-movement/README.md#user-content-horizontal-movement) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [Squash and Stretch](squatch-stretch/README.md#user-content-squash-and-stretch) <br>
+<kbd></kbd> &nbsp;&nbsp; [Squash and Stretch](squach-stretch/README.md#user-content-squash-and-stretch) <br>
 >
 
 <!-- LICENSE -->
