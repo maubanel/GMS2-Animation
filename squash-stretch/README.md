@@ -95,7 +95,7 @@ Open up **obj_ball | End Step** and after the bounce logic, check to see if the 
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Woops, now when the ball bounces it is stuck in the squash animation frame.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
