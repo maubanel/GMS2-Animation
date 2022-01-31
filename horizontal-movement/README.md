@@ -73,6 +73,7 @@ Now to make it perfect it would be nice if the speed of the animation of the bal
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now that adds a nice touch.  
 
+https://user-images.githubusercontent.com/5504953/151793115-31715c9a-af8a-4ddd-94ba-cdb958087170.mp4
 
 ___
 
