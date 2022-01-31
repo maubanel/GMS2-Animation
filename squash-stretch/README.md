@@ -97,6 +97,8 @@ Open up **obj_ball | End Step** and after the bounce logic, check to see if the 
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Woops, now when the ball bounces it is stuck in the squash animation frame.
 
+https://user-images.githubusercontent.com/5504953/151799167-5c5912f3-a31e-45b7-be88-7dad07c35226.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
