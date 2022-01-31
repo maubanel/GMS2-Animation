@@ -79,9 +79,9 @@ Open up **spr_ball** and press the <kbd>Import</kbd> button and reimport the six
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+*Right click* on **Sprites** and select **New | Sprite** and name it `spr_squash`. Press the <kbd>Import</kbd> button and import **spr_squash.png**.  Name the sprite `spr_squash`.
 
-
-![alt_text](images/sprSquash.png)
+![add squash sprite](images/sprSquash.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
