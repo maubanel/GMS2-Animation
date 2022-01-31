@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Now the next step in the animation was the squash and the stretch. The ball squooshes when hitting the ground. It gets a bit flatter.  This happens also with a real ball but in 2-D animation this is exaggerated for effect.  Also when the ball bounces up it stretches then returns to its circular form when it slows down reaching its apex.
 
 <br>
 
@@ -15,7 +15,9 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`BTS`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Now the next step in the video was to add a **squash** to the animation on the bounce.  Notice that it is a last two bounces have a smaller squash than the first two.
+
+![squash illustration](images/squashIll.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
