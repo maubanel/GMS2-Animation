@@ -154,6 +154,8 @@ Open up **spr_small_squash** and press the <kbd>Import</kbd> button and bring in
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
 
+https://user-images.githubusercontent.com/5504953/151803521-f836cf4e-db7a-4c04-b088-dba1324df561.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
