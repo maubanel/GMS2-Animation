@@ -31,7 +31,7 @@ Now draw on top of the balls with two more squash levels.  One large one and a s
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Turn all layers on. Now the problem when we trim and clip these that the ball we have will get smaller proportionally to the squash.  So we need to re-export the news and hold frames.
+Turn all layers on. Now the problem when we trim and clip these that the ball we have will get smaller proportionally to the squash.  So we need to re-export the new  squash frames and old ball frames.
 
 ![all ball and squash layers](images/allLayersOn.png)
 
@@ -39,7 +39,8 @@ Turn all layers on. Now the problem when we trim and clip these that the ball we
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now turn off the white background and select **Image | Image Size**.  Now it is wider than it is tall so change the 
+![alt_text](images/imageWidth.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
