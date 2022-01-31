@@ -152,7 +152,7 @@ Open up **spr_small_squash** and press the <kbd>Import</kbd> button and bring in
 
 ##### `Step 18.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Play with different speeds, but I settled on `12` fps as the right speed for the squash idle animation we just added this looks a lot better.  
 
 https://user-images.githubusercontent.com/5504953/151803521-f836cf4e-db7a-4c04-b088-dba1324df561.mp4
 
@@ -160,19 +160,18 @@ https://user-images.githubusercontent.com/5504953/151803521-f836cf4e-db7a-4c04-b
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+We still have an issue.  In the original animation, it was meant to be played back at 8, 12, or 24 frames per second.  The problem is that our framerate is 60 fps (which we want in a game). So one squash frame is too quick a flash.  We need to slow it down.
+
+Go back to **obj_ball | End Step** and change to the squash animation when it is close to the ground, not the single frame it is on the ground for.  This will increase the number of frames it is on the ground and make it read better in the animation.
+
+![increase bounce range](images/increaseSquash.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`BTS`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now that is perfect.  Next up we will look at stretch.
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 21.`\|`BTS`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ___
 
