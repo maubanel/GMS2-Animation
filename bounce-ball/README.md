@@ -182,12 +182,7 @@ https://user-images.githubusercontent.com/5504953/151787314-b86bbf26-5078-4abb-b
 
 *Double click* **spr_ball** and press the <kbd>Import</kbd> button and select `spr_ball_1.png`, `spr_ball_2.png`,`spr_ball_3.png`,`spr_ball_4.png`,`spr_ball_5.png`, and `spr_ball_6.png`. Press the <kbd>Open</kbd> button.  Play back the animation and pick a suitable framerate.  I like it running at `12 fps`.  Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. It is looking more and more like the example showed.
 
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 21.`\|`BTS`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/151788247-c8e3ebca-385e-43f2-bf4d-44518ebd125f.mp4
 
 ___
 
