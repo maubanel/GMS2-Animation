@@ -47,7 +47,9 @@ Now turn off the white background and select **Image | Image Size**.  Now it is 
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/rescaleCanvas.png)
+Now go to **Image | Canvas Size** and change the **Height** to `128` and make sure the ball stays at the bottom of the frame.
+
+![rescale canvas to be square with ball at bottom](images/rescaleCanvas.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
