@@ -87,7 +87,9 @@ Open up **spr_ball** and press the <kbd>Import</kbd> button and reimport the six
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-![alt_text](images/squashFrame.png)
+Open up **obj_ball | End Step** and after the bounce logic, check to see if the ball is on the ground.  If it is then changes the sprite to the one we just imported `spr_squash`.
+
+![change sprite to squash on bounce](images/squashFrame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
