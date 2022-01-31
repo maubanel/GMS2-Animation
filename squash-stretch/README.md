@@ -172,6 +172,7 @@ Go back to **obj_ball | End Step** and change to the squash animation when it is
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now that is perfect.  Next up we will look at stretch.
 
+https://user-images.githubusercontent.com/5504953/151804563-f90f6b1e-f430-49c3-8a90-6f366994ba89.mp4
 
 ___
 
