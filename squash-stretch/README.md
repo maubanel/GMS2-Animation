@@ -112,7 +112,7 @@ Put the sprite back to the regular ball when it is no longer bouncing.
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/151800201-dba0493a-63c7-4ccf-9c0c-37bde7901a6d.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
