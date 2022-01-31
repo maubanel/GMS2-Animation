@@ -57,6 +57,7 @@ Now everytime the ball collides with the ground reduce the overall speed of the 
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Notice that the ball comes to a stop at the end of the level, which is what we want!
 
+https://user-images.githubusercontent.com/5504953/151791662-7d8b68f2-6547-4b28-992f-389c74d05be1.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
