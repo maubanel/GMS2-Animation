@@ -172,9 +172,9 @@ https://user-images.githubusercontent.com/5504953/151718921-c3cbf2cb-0a67-43b8-8
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Then you should have multiple layers like so.  With all selected remove the background, trim and rescale to be `128` by `128`.  Then export them one at a time with `spr_ball_1` through `spr_ball_6` with different ball drawings all one on top of each other.
+With all the layers selected remove the background, trim and rescale to be `128` by `128`.  Start by resizing the longest side to `128` then use **Image | Image Canvas** to make it square.  Export them one at a time with `spr_ball_1` through `spr_ball_6`.
 
-![alt_text](images/.png)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
