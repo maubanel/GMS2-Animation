@@ -71,7 +71,9 @@ Re-export the six ball layers as `spr_ball_1.png`, `spr_ball_2.png`,`spr_ball_3.
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Open up **spr_ball** and press the <kbd>Import</kbd> button and reimport the six ball frames.
+
+![re-import six ball frames](images/reImportBall.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
