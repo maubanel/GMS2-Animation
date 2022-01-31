@@ -63,9 +63,9 @@ Now your ball will be a bit smaller than before but contain the two squash frame
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Re-export the six ball layers as `spr_ball_1.png`, `spr_ball_2.png`,`spr_ball_3.png`,`spr_ball_4.png`,`spr_ball_5.png`, and `spr_ball_6.png`.  Then export the squash frame as `spr_squash`.
 
-
-![alt_text](images/.png)
+![alt_text](images/reExportFiles.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
