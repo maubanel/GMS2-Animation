@@ -120,16 +120,15 @@ https://user-images.githubusercontent.com/5504953/151800201-dba0493a-63c7-4ccf-9
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now go back to **obj_ball | End Step** and check to see if the upwards velocity is greater than `10` pixels per frame to use the larger squash else use the smaller one.
 
-![alt_text](images/.png)
+![select size of squash](images/pickSquashLevel.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
-Now go back to **obj_ball | End Step** and check to see if the upwards velocity is greater than `10` pixels per frame to use the larger squash else use the smaller one.
-
-![select size of squash](images/pickSquashLevel.png)
+![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
