@@ -55,7 +55,9 @@ Re-import the smaller `spr_ball_1.png` through `spr_ball_6.png`, `spr_squash.png
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+*Right click* on **Sprites** and select **New | Sprite** and name it `spr_stretch`. Press the <kbd>Import</kbd> button and select the stretch sprites.
+
+![import three stretches](images/importStretches.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
