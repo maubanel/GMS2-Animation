@@ -17,7 +17,7 @@ Lets finish off squash and stretch by addin stretch.
 
 The final step in the video is adding stretch when the ball bounces up.  It should only be used on the high bounces (first two).
 
-![stretch](images/stretch.png)
+![stretch illustration](images/stretch.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -31,14 +31,17 @@ Now in your paint package we will draw 3 stretch frames.  Now it should be point
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+So the final set of frames of the balls should include the ball, the squash and three stretch frames.
 
-![alt_text](images/.png)
+![all ball frames](images/finalBallFrames.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now remove the background and trim, scale and resize canvas to `128` by `128`.  Now the ball size has shrunk because of the long stretch piece.  I will need to re-export all the ball frames to `.png` to maintain scale.
+
+![trim, scale and resized frames](images/trimScale.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
