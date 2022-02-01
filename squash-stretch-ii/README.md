@@ -39,7 +39,7 @@ So the final set of frames of the balls should include the ball, the squash and 
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now remove the background and trim, scale and resize canvas to `128` by `128`.  Now the ball size has shrunk because of the long stretch piece.  I will need to re-export all the ball frames to `.png` to maintain scale.
+Now remove the background and trim, scale and resize canvas to `128` by `128`.  Now the ball size has shrunk because of the long stretch piece.  I will need to re-export all the ball frames to `.png` to maintain scale. The stretch animations are exported as `spr_stretch_1.png`, `spr_stretch_2.png`, `spr_stretch_3.png`.
 
 ![trim, scale and resized frames](images/trimScale.png)
 
