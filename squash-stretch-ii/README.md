@@ -47,7 +47,9 @@ Now remove the background and trim, scale and resize canvas to `128` by `128`.  
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Re-import the smaller `spr_ball_1.png` through `spr_ball_6.png`, `spr_squash.png` and `spr_small_squash.png`.
+
+![reimport squashes and ball](images/reimportFrames.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
