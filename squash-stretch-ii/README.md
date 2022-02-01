@@ -79,7 +79,9 @@ https://user-images.githubusercontent.com/5504953/151975686-2b797825-5660-4e45-8
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+If we overlay the last frame of squash with the first frame of stretch, it is rotating on the top corner of the sprite and not the middle of the ball.  We will need to make some changes. 
+
+![bad rotation illustration](images/badRotation.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
