@@ -63,7 +63,9 @@ Re-import the smaller `spr_ball_1.png` through `spr_ball_6.png`, `spr_squash.png
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+When the ball is below 500 pixels it needs to go from squash to stretch frames.  We will have a zone between 400 and 500 to run the stretch animation.  We will only do it if the animation has a large amount of vertical motion.  We will only switch if there is `-15` pixels per frame in `vspeed` as this means it is bouncing hard. Since we drew the angle of the streatch as `0` degrees we can set `image_angle` to `direction`. We put this as an `else if` after the squash if statement.
+
+![add stretching logic](images/stretchLogic.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
