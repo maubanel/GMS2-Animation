@@ -55,7 +55,9 @@ https://user-images.githubusercontent.com/5504953/152154007-f5998b7a-2943-4e12-b
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Remove all reference, white and any background.  You should just have 8 transparent layers.  Trim the image and change the longest side to `128`. Then adjust the canvas to `128` so we get a square frame.  
+
+![rescale images](images/scaleTrim.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
