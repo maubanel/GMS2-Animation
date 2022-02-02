@@ -49,6 +49,7 @@ Then I traced a stick-person on top of each pose on its own layer above the whit
 
 Now I move the white tracing layer up and add a layer for the remaining 8 frames and get a pose drawn for each reference frame. 
 
+https://user-images.githubusercontent.com/5504953/152153743-c341bdbf-7a5e-4702-8511-76a8d9c7e27d.mp4
 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
