@@ -104,7 +104,7 @@ So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `sp
 
 Now we need to readjust the y position for all the bouncing.  We moved the origin so the position of the ball will change in the room.  Open it up and drag the ball to the ground.  In my case it no longer snaps to the ground.  Open up the **grid icon** and turn off **Snap**.
 
-![turn snap off(images/turnSnapOff.png)
+![turn snap off](images/turnSnapOff.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
