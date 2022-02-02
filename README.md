@@ -43,6 +43,9 @@ In this walk through:
 <kbd></kbd> &nbsp;&nbsp; [Squash and Stretch II](squash-stretch-ii/README.md#user-content-squash-and-stretch-ii) <br>
 >
 
+<kbd></kbd> &nbsp;&nbsp; [Animating a Run Cycle](run-cycle-ii/README.md#user-content-animating-a-run-cycle) <br>
+>
+
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).
