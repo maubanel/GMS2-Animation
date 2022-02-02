@@ -15,7 +15,7 @@ Now lets try and animate a walk cycle we can use in the game.
 
 ##### `Step 1.`\|`BTS`|:small_blue_diamond:
 
-It is always good when making your first walk cycle to use some reference.  In this case we will be tracing a stick person animation.  Just like the ball for walking/running we need to animate the player without translation (like running on a treadmill).  There is lots of good reference on YouTube.  Lets use this one:
+It is always good when making your first walk cycle to use some reference.  In this case we will be tracing a stick person animation.  Just like the ball for walking/running we need to animate the player without translation (like running on a treadmill).  There is lots of good reference on YouTube.  Lets use this one. Click on the picture below to view the video on YouTube.
 
 [![how to animate a ball in 2d](https://img.youtube.com/vi/vq9A5FD8G5w/0.jpg)](https://www.youtube.com/watch?v=vq9A5FD8G5w)
 
@@ -23,7 +23,7 @@ It is always good when making your first walk cycle to use some reference.  In t
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-For reference I took screenshot of every 10<sup>th</sup> frames of the animation.  This resulted in a 9 frame walk cycle.  I took it with 1 frame less than a full walk cycle (right foot swinghing forward below hip all the way to right foot 1 frame before right hip).  If you loop it creates a seamless walk cycle.
+For reference I took screenshot of every 10<sup>th</sup> frames of the animation.  This resulted in a 9 frame walk cycle.  I took it with 1 frame less than a full walk cycle (right foot swinghing forward below hip all the way to right foot 1 frame before right hip).  If you loop it creates a seamless walk cycle. I scaled down the sequence.
 
 ![walk animation reference layers](images/walkRef.png)
 
@@ -31,7 +31,9 @@ For reference I took screenshot of every 10<sup>th</sup> frames of the animation
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+I used procreate on an iPad but you can use Photoshop or countless other paint packages.  It is best to use a tablet again for animation.  I added a white layer on top of the first layer.  I changed the opactity to about 70%. This allows me to see the drawing while still able to see the pose for tracing.
+
+![white semi-opaque layer](images/whiteLayer.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
