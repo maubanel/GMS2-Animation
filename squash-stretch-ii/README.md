@@ -87,9 +87,15 @@ If we overlay the last frame of squash with the first frame of stretch, it is ro
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `spr_`
+So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `spr_small_squash`, `spr_squash` and `spr_stretch`. Grab the origin target and center it in the shape. You can do this by eyball as the circle is not in the center of the bounding box.  
 
-![alt_text](images/sprBallCenterOrigin.png)
+![center origin on spr_ball](images/sprBallCenterOrigin.png)
+
+![center origin on spr_small_squash](images/sprSmalLSquashCenterOrigin.png)
+
+![center origin on spr_squash](images/sprSquashCenterOrigin.png)
+
+![center origin on spr_stretch](images/sprStretchCenterOrigin.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
