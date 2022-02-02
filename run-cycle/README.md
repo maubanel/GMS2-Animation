@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-8
 
 *Right click* on **Objects** and select **New | Object** and name it `obj_player`. Set the **Sprite** to `spr_walk`.
 
-![create obj_player and assign walk sprite](images/.objWalkpng)
+![create obj_player and assign walk sprite](images/objWalk.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
