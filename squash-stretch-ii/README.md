@@ -91,6 +91,7 @@ So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `sp
 
 ![center origin on spr_ball](images/sprBallCenterOrigin.png)
 
+
 ![center origin on spr_small_squash](images/sprSmalLSquashCenterOrigin.png)
 
 ![center origin on spr_squash](images/sprSquashCenterOrigin.png)
@@ -101,14 +102,18 @@ So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `sp
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now we need to readjust the y position for all the bouncing.  We moved the origin so the position of the ball will change in the room.  Open it up and drag the ball to the ground.  In my case it no longer snaps to the ground.  Open up the **grid icon** and turn off **Snap**.
+
+![turn snap off(images/turnSnapOff.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now you can position the ball pixel by pixel and put it on the ground plane.  Record the **y** value.  Mine is ``
+
+![alt_text](images/newYPos.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
