@@ -71,13 +71,15 @@ Export each frame as a `.png` file naming them `spr_walk_1` to `spr_walk_9`.
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-sprWalk
+Create a new sprite called `spr_walk` and press the <kbd>Import</kbd> button.  Import the 9 animation frames.
 
-![alt_text](images/sprWalk.png)
+![import 9 animations](images/sprWalk.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Adjust the **FPS** (Frames per Second) to a speed that looks right to you.  I selected `12`.
 
 https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-81de-682d20bd5693.mp4
 
