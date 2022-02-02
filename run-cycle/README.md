@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-8
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.
 
-
+https://user-images.githubusercontent.com/5504953/152159169-c55a937c-05c0-4a11-add0-d5f419530dd7.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
