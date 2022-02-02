@@ -87,13 +87,17 @@ https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-8
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
-![alt_text](images/.png)
+*Right click* on **Objects** and select **New | Object** and name it `obj_player`. Set the **Sprite** to `spr_walk`.
+
+![create obj_player and assign walk sprite](images/.objWalkpng)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
+ 
+ *Right click* on **rm_ball_bounce** and select **Duplicate** and name it `rm_player`. Change the **Room Order** to place this room on the top of the list. Remove `obj_ball` and add `obj_player` to the center room on the floor.
 
-![alt_text](images/.png)
+![duplicate rm_ball_bounce for room player and add player to room](images/rmPlayer.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
