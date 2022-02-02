@@ -111,15 +111,17 @@ Now we need to readjust the y position for all the bouncing.  We moved the origi
 
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now you can position the ball pixel by pixel and put it on the ground plane.  Record the **y** value.  Mine is ``
+Now you can position the ball pixel by pixel and put it on the ground plane.  Record the **y** value.  Mine is `628`
 
-![alt_text](images/newYPos.png)
+![move ball to ground plane y is 628](images/newYPos.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Move ball back to top left corner.
+
+![move ball back to top left corner](images/moveBallBack.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
