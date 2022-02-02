@@ -127,19 +127,22 @@ Move ball back to top left corner.
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now our bouncing point on **y** is `628`.  Previously it was `544`.  So with 628 - 544 = 84.  So we need to add `84` units to each y position in our **obj_ball | End Step**.
+
+![adjust y by 84 units](images/newYPositions.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+In slow motion you can see that the ball is now changing animation states properly and it looks good.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. This is not how we would handle a ball in a game but is an example of how you approach a simple problem from an animated scene to replicating it in a "game" way.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
