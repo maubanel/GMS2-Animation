@@ -108,7 +108,6 @@ Now we need to readjust the y position for all the bouncing.  We moved the origi
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 Now you can position the ball pixel by pixel and put it on the ground plane.  Record the **y** value.  Mine is `628`
@@ -137,6 +136,7 @@ Now our bouncing point on **y** is `628`.  Previously it was `544`.  So with 628
 
 In slow motion you can see that the ball is now changing animation states properly and it looks good.
 
+https://user-images.githubusercontent.com/5504953/152091105-f23736b4-54c5-4e0a-8f01-9962fe0eb49f.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -144,35 +144,9 @@ In slow motion you can see that the ball is now changing animation states proper
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. This is not how we would handle a ball in a game but is an example of how you approach a simple problem from an animated scene to replicating it in a "game" way.
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/152091132-0ed66867-f410-4d12-bd50-61c79099e6b9.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 18.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 20.`\|`BTS`| :large_blue_diamond: :large_blue_diamond:
-
-![alt_text](images/.png)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 21.`\|`BTS`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ___
 
