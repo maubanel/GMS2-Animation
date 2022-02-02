@@ -63,15 +63,17 @@ Remove all reference, white and any background.  You should just have 8 transpar
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Export each frame as a `.png` file naming them 
+Export each frame as a `.png` file naming them `spr_walk_1` to `spr_walk_9`.
 
-![alt_text](images/eachFrame.png)
+![export 9 animation frames](images/eachFrame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+sprWalk
+
+![alt_text](images/sprWalk.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
