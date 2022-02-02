@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Now lets try and animate a walk cycle we can use in the game.
+Now lets try and animate a walk cycle we can use in the game. This is for a platformer side view.  So I found reference of a person walking who is directly at 90 degrees from the camera.
 
 <br>
 
@@ -23,7 +23,7 @@ It is always good when making your first walk cycle to use some reference.  In t
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-For reference I took screenshot of every 10<sup>th</sup> frames of the animation.  This resulted in a 9 frame walk cycle.  I took it with 1 frame less than a full walk cycle (right foot swinghing forward below hip all the way to right foot 1 frame before right hip).  If you loop it creates a seamless walk cycle. I scaled down the sequence.
+For reference I took screenshot of every 10<sup>th</sup> frames of the animation.  This resulted in a 9 frame walk cycle.  I took it with 1 frame less than a full walk cycle (right foot swinghing forward below hip all the way to right foot 1 frame before right hip).  If you loop it creates a seamless walk cycle. I scaled down the sequence but left it larger than I want in the game for more precision pencil work (I will scale it down to game size later). You can download the [AnimReference.psd file here](images/AnimReference.psd). 
 
 ![walk animation reference layers](images/walkRef.png)
 
@@ -39,13 +39,17 @@ I used procreate on an iPad but you can use Photoshop or countless other paint p
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Then I traced a stick-person on top of each pose on its own layer above the white one.  I tried to keep the forward limbs a bit darker than the back leg and arm.
+
+![trace single frame of walk](images/tracedImage.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now I move the white tracing layer up and add a layer for the remaining 8 frames and get a pose drawn for each reference frame. 
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
