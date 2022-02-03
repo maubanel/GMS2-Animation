@@ -17,19 +17,23 @@ Lets look at some suggestions for how we can approach animating characters that 
 
 Now lets look at character animations. Animations for games are very different than ones for movies or cartoons. Each animation is atomic (each animation represents an individual action), mostly loopable and connect to each other in a logical manner. We also want animations to be short and crisp so that the player has maximum control over the player actions.  We typically exaggerate motion and move it quickly so the player can move fast on screen.
 
-![alt_text](images/WalkCycle.gif)
+![animating monkey](images/WalkCycle.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+What is the above animation composed of? This breaks a run cycle into 8 frames:
+
+![frames of animating monkey](images/EightFrameWalkCycle.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+There are many tricks and techniques for animating characters. One of them is to start very simple and build more detail slowly:
+
+![start low res work up](images/StartLowResWorkWayUp.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
