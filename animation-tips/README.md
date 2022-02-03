@@ -51,7 +51,8 @@ For most animations some vertical translation helps a lot - make it bouncy.  Tak
 
 Look at the shading above in the feet of the robot. The back legs are dark which clearly delinates the front and back legs. In the old 8 bit games there were not enough colors in the pallette (or enough pixels in the character) to give detail and shadows. 
 
-![scott pilgrim robot animation](https://scottpilgrim.fandom.com/wiki/File:Toddingram_freakout_a-1-.gif)
+![scott pilgrim robot animation](http://paulrobertson.mechafetus.com/mk/exoidle.gif)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
