@@ -146,13 +146,17 @@ Now we want to do this after the player has moved (and if there were collisions 
 
 ##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. We now face the direction we are walking in.  But if I let go the player keeps walking.
+
 https://user-images.githubusercontent.com/5504953/152335802-7488641c-60d1-4036-8613-cca144c96b8d.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now draw three frames of the player standing.  The different pencil strokes will create some changes and add life when animating. You can trace/draw the first pose then draw two others on top of it.  Export them as `spr_idle_1.png`, `spr_idle_2.png` and `spr_idle_3.png`.
+
+![add three idle poses](images/idleAnim.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
