@@ -128,7 +128,9 @@ Press the <kbd>Add Event</kbd> and select a **Step | Step** event. We then get l
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now press left and right and you can move the player.  The player is not turning to face the direction they are walking in.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
