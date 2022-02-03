@@ -146,7 +146,7 @@ Now we want to do this after the player has moved (and if there were collisions 
 
 ##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/152335802-7488641c-60d1-4036-8613-cca144c96b8d.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
