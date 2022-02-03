@@ -136,7 +136,11 @@ https://user-images.githubusercontent.com/5504953/152334584-71a29f82-33df-4e93-9
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+We can get the mirror image of the sprite so that it faces left by inverting the horizontal scale.  If you set `image_xscale` to `-1` then you will create a mirror image or the original direction, so the player will face left.  So when `hspeed` is negative, make the sprite face left otherwise if the `speed` is positive make it face right.  
+
+Now we want to do this after the player has moved (and if there were collisions after we resolved collisions).  Press the <kbd>Add Event</kbd> and select a **Step | End Step** event. 
+
+![mirror animation in end step](images/endStepMirror.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
