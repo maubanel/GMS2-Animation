@@ -21,8 +21,6 @@ In this walk through:
 * Horizontal Movement.  Have the ball move from left to right.
 * Squash and Stretch.  Make the ball squish when hitting the ground and stretch on the bounce.
 * Animating a Run Cycle
-* Importing Animations
-* Player movement with keyboard and gamepad
 
 <br>
 
@@ -44,6 +42,9 @@ In this walk through:
 >
 
 <kbd></kbd> &nbsp;&nbsp; [Animating a Run Cycle](run-cycle/README.md#user-content-animating-a-run-cycle) <br>
+>
+
+<kbd></kbd> &nbsp;&nbsp; [Animation Tips](animation-tips/README.md#user-content-animation-tips) <br>
 >
 
 <!-- LICENSE -->
