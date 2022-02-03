@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/5504953/152159169-c55a937c-05c0-4a11-a
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Press the <kbd>Add Event</kbd> and select a **Create** event. Now lets add a speed in pixels per frame for the animation.
+Press the <kbd>Add Event</kbd> and select a **Create** event. Now lets add a speed in pixels per frame for the animation to translate it along the x axis.
 
 ![add player speed to create event](images/objPlayerCreate.png)
 
@@ -120,7 +120,9 @@ Press the <kbd>Add Event</kbd> and select a **Create** event. Now lets add a spe
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/objPlayerStep.png)
+Press the <kbd>Add Event</kbd> and select a **Step | Step** event. We then get left and right movement by creating a scalar.  We subtract two booleans `keyboard_check(vk_right) - keyboard_check(vk_left)`.  Since `keyboard_check(key)` returns a boolean (1 - true, 0 - false) we get 1 - 0, 1 - 1, 0 - 1, 0 - 0 as possible outcomes.  This gives a a scalar of -1, 0 or 1.  We can then multiply our `player_speed` by `h_movement` to translate left and right. 
+
+![add horizontal movement](images/objPlayerStep.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
