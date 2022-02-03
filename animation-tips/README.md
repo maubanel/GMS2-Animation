@@ -39,13 +39,19 @@ There are many tricks and techniques for animating characters. One of them is to
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+You can also build it piece by piece:
+
+![build animation piece by piece](images/PieceByPiece.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
-![alt_text](images/.png)
+For most animations some vertical translation helps a lot - make it bouncy.  Take a look at this amazing animation from <a href="http://probertson.tumblr.com/post/82062175084/mercenary-kings-animations" target="_blank">Mercenary Kings</a>. Keep it simple and represent the animation in as few frames as possible. Just as we want to get rid of the “grid” in the tiles; we want to lose a sense of where the animation is looping. Can you see the stitch? Can you guess how many animation frames there are? Can you see that different animations start and stop and there is a good demonstration of overlap going on here.
+
+Look at the shading above in the feet of the robot. The back legs are dark which clearly delinates the front and back legs. In the old 8 bit games there were not enough colors in the pallette (or enough pixels in the character) to give detail and shadows. 
+
+![scott pilgrim robot animation](https://scottpilgrim.fandom.com/wiki/File:Toddingram_freakout_a-1-.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
