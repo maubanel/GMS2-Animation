@@ -130,7 +130,7 @@ Press the <kbd>Add Event</kbd> and select a **Step | Step** event. We then get l
 
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now press left and right and you can move the player.  The player is not turning to face the direction they are walking in.
 
-
+https://user-images.githubusercontent.com/5504953/152334584-71a29f82-33df-4e93-9836-1b30e7845141.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
