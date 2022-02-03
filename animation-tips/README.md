@@ -58,7 +58,9 @@ Look at the shading above in the feet of the robot. The back legs are dark which
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+You can continue to trace on reference then build up the form gradually.
+
+![trace image](images/TraceOnTopOfReference.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
