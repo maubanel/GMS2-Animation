@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/5504953/151717264-224f7f4e-0602-436e-a
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
 
-To add a bounce we need to solve the physics after the **vspeed** has been processed to move the ball.  This happens between the **step** and the **end step** events.  Press the <kbd>Add Event</kbd> and select a **Steo | End Step** event.
+To add a bounce we need to solve the physics after the **vspeed** has been processed to move the ball.  This happens between the **step** and the **end step** events.  Press the <kbd>Add Event</kbd> and select a **Step | End Step** event.
 
 1.  Check to see if the ball is at or past the ground plane
 2.  If it is add one extra unit of gravity to maintain a perfectly elastic bounce (next frame will remove one tick of gravity).  We don't want any friction.
