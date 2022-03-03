@@ -162,6 +162,14 @@ Now draw three frames of the player standing.  The different pencil strokes will
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now add a switch to the **spr_idle** when the player is not moving (if the player's hspeed is neither above or below 0 then the final else has to be a value of 0, or the player idling).  We also have to swtich back to the walk animation when the user moves the player again.
+
+![add idle switch](images/switchToIdle.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 20.`\|`BTS`| :large_blue_diamond: :large_blue_diamond:
+
 Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now I forgot to adjust the **Origin** of the sprite.  So the player shifts **y** position when changing states.  Open up `spr_player` and set the **Origin** to `Bottom Center`.  Press he <kbd>Play</kbd> button again, and we have it working correctly.
 
 https://user-images.githubusercontent.com/5504953/152337340-9e898854-5417-4a18-9d5a-fc4130628a1f.mp4
