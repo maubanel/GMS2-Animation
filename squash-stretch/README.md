@@ -2,7 +2,7 @@
 
 ### Squash and Stretch
 
-<sub>[previous](../horizontal-movement/README.md#user-content-horizontal-movement) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)</sub>
+<sub>[previous](../horizontal-movement/README.md#user-content-horizontal-movement) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -183,5 +183,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../horizontal-movement/README.md#user-content-horizontal-movement)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)|
+| [previous](../horizontal-movement/README.md#user-content-horizontal-movement)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)|
 |---|---|---|

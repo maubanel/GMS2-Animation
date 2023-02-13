@@ -2,7 +2,7 @@
 
 ### Get Ball to Bounce
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../horizontal-movement/README.md#user-content-horizontal-movement)</sub>
+<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../horizontal-movement/README.md#user-content-horizontal-movement)</sub>
 
 ![](../images/line3.png)
 
@@ -193,5 +193,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../horizontal-movement/README.md#user-content-horizontal-movement)|
+| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../horizontal-movement/README.md#user-content-horizontal-movement)|
 |---|---|---|

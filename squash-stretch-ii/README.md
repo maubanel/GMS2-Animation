@@ -2,7 +2,7 @@
 
 ### Squash and Stretch II
 
-<sub>[previous](../squash-stretch/README.md#user-content-squash-and-stretch) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../run-cycle/README.md#user-content-animating-a-run-cycle)</sub>
+<sub>[previous](../squash-stretch/README.md#user-content-squash-and-stretch) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../run-cycle/README.md#user-content-animating-a-run-cycle)</sub>
 
 ![](../images/line3.png)
 
@@ -157,5 +157,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../squash-stretch/README.md#user-content-squash-and-stretch)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../run-cycle/README.md#user-content-animating-a-run-cycle)|
+| [previous](../squash-stretch/README.md#user-content-squash-and-stretch)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../run-cycle/README.md#user-content-animating-a-run-cycle)|
 |---|---|---|

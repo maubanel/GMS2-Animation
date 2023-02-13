@@ -2,7 +2,7 @@
 
 ### Animation Tips
 
-<sub>[previous](../run-cycle/README.md#user-content-animating-a-run-cycle) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents)</sub>
+<sub>[previous](../run-cycle/README.md#user-content-animating-a-run-cycle) • [home](../README.md#user-content-gms2-animation---table-of-contents)</sub>
 
 ![](../images/line3.png)
 
@@ -78,5 +78,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../run-cycle/README.md#user-content-animating-a-run-cycle)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | 
+| [previous](../run-cycle/README.md#user-content-animating-a-run-cycle)| [home](../README.md#user-content-gms2-animation---table-of-contents) | 
 |---|---|

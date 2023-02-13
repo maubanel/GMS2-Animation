@@ -2,7 +2,7 @@
 
 ### Horizontal Movement
 
-<sub>[previous](../bounce-ball/README.md#user-content-get-ball-to-bounce) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../squash-stretch/README.md#user-content-squash-and-stretch)</sub>
+<sub>[previous](../bounce-ball/README.md#user-content-get-ball-to-bounce) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../squash-stretch/README.md#user-content-squash-and-stretch)</sub>
 
 ![](../images/line3.png)
 
@@ -84,5 +84,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../bounce-ball/README.md#user-content-get-ball-to-bounce)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../squash-stretch/README.md#user-content-squash-and-stretch)|
+| [previous](../bounce-ball/README.md#user-content-get-ball-to-bounce)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../squash-stretch/README.md#user-content-squash-and-stretch)|
 |---|---|---|

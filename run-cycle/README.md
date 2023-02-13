@@ -2,7 +2,7 @@
 
 ### Animating a Run Cycle
 
-<sub>[previous](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../animation-tips/README.md#user-content-animation-tips)</sub>
+<sub>[previous](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../animation-tips/README.md#user-content-animation-tips)</sub>
 
 ![](../images/line3.png)
 
@@ -183,5 +183,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../animation-tips/README.md#user-content-animation-tips)|
+| [previous](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../animation-tips/README.md#user-content-animation-tips)|
 |---|---|---|
