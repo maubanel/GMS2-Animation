@@ -56,7 +56,7 @@ Now you should have an empty game with the defaul room! Change the room name to 
 
 ##### `Step 6.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond:
 
-Download 
+Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
 ![](../images/line2.png)
 
