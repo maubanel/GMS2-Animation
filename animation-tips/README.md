@@ -12,7 +12,6 @@ Lets look at some suggestions for how we can approach animating characters that 
 
 ---
 
-
 ##### `Step 1.`\|`ANIM`|:small_blue_diamond:
 
 Now lets look at character animations. Animations for games are very different than ones for movies or cartoons. Each animation is atomic (each animation represents an individual action), mostly loopable and connect to each other in a logical manner. We also want animations to be short and crisp so that the player has maximum control over the player actions.  We typically exaggerate motion and move it quickly so the player can move fast on screen.
@@ -74,7 +73,9 @@ ___
 
 ![](../images/line.png)
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - That's All Folks!">
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - That's All Folks!"> -->
+![alt_text](images/banner.png)
+
 
 ![](../images/line.png)
 
