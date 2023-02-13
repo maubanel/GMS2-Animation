@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Animating a Run Cycle
 
 <sub>[previous](../squash-stretch-ii/README.md#user-content-squash-and-stretch-ii) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../animation-tips/README.md#user-content-animation-tips)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 Now lets try and animate a walk cycle we can use in the game. This is for a platformer side view.  So I found reference of a person walking who is directly at 90 degrees from the camera.
 
@@ -19,7 +19,7 @@ It is always good when making your first walk cycle to use some reference.  In t
 
 [![how to animate a ball in 2d](https://img.youtube.com/vi/vq9A5FD8G5w/0.jpg)](https://www.youtube.com/watch?v=vq9A5FD8G5w)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -27,7 +27,7 @@ For reference I took screenshot of every 10<sup>th</sup> frames of the animation
 
 ![walk animation reference layers](images/walkRef.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -35,7 +35,7 @@ I used procreate on an iPad but you can use Photoshop or countless other paint p
 
 ![white semi-opaque layer](images/whiteLayer.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -43,7 +43,7 @@ Then I traced a stick-person on top of each pose on its own layer above the whit
 
 ![trace single frame of walk](images/tracedImage.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
@@ -51,7 +51,7 @@ Now I move the white tracing layer up and add a layer for the remaining 8 frames
 
 https://user-images.githubusercontent.com/5504953/152154007-f5998b7a-2943-4e12-ba9c-f9536d02a9e6.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
@@ -59,7 +59,7 @@ Remove all reference, white and any background.  You should just have 8 transpar
 
 ![rescale images](images/scaleTrim.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -67,7 +67,7 @@ Export each frame as a `.png` file naming them `spr_walk_1` to `spr_walk_9`.
 
 ![export 9 animation frames](images/eachFrame.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -75,7 +75,7 @@ Create a new sprite called `spr_walk` and press the <kbd>Import</kbd> button.  I
 
 ![import 9 animations](images/sprWalk.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -83,7 +83,7 @@ Adjust the **FPS** (Frames per Second) to a speed that looks right to you.  I se
 
 https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-81de-682d20bd5693.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-8
 
 ![create obj_player and assign walk sprite](images/objWalk.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
  
@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/5504953/152157005-97dffc82-d01c-4595-8
 
 ![duplicate rm_ball_bounce for room player and add player to room](images/rmPlayer.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -108,7 +108,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 https://user-images.githubusercontent.com/5504953/152159169-c55a937c-05c0-4a11-add0-d5f419530dd7.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -116,7 +116,7 @@ Press the <kbd>Add Event</kbd> and select a **Create** event. Now lets add a spe
 
 ![add player speed to create event](images/objPlayerCreate.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -124,7 +124,7 @@ Press the <kbd>Add Event</kbd> and select a **Step | Step** event. We then get l
 
 ![add horizontal movement](images/objPlayerStep.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -132,7 +132,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 https://user-images.githubusercontent.com/5504953/152334584-71a29f82-33df-4e93-9836-1b30e7845141.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -142,7 +142,7 @@ Now we want to do this after the player has moved (and if there were collisions 
 
 ![mirror animation in end step](images/endStepMirror.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -150,7 +150,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. W
 
 https://user-images.githubusercontent.com/5504953/152335802-7488641c-60d1-4036-8613-cca144c96b8d.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -158,7 +158,7 @@ Now draw three frames of the player standing.  The different pencil strokes will
 
 ![add three idle poses](images/idleAnim.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -166,7 +166,7 @@ Now add a switch to the **spr_idle** when the player is not moving (if the playe
 
 ![add idle switch](images/switchToIdle.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`BTS`| :large_blue_diamond: :large_blue_diamond:
 

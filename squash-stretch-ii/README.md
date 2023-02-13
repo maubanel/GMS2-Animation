@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Squash and Stretch II
 
 <sub>[previous](../squash-stretch/README.md#user-content-squash-and-stretch) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../run-cycle/README.md#user-content-animating-a-run-cycle)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 Lets finish off squash and stretch by addin stretch.
 
@@ -19,7 +19,7 @@ The final step in the video is adding stretch when the ball bounces up.  It shou
 
 ![stretch illustration](images/stretch.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -27,7 +27,7 @@ Now in your paint package we will draw 3 stretch frames.  Now it should be point
 
 ![3 stretch frames](images/draw3Stretch.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -35,7 +35,7 @@ So the final set of frames of the balls should include the ball, the squash and 
 
 ![all ball frames](images/finalBallFrames.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -43,7 +43,7 @@ Now remove the background and trim, scale and resize canvas to `128` by `128`.  
 
 ![trim, scale and resized frames](images/trimScale.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
@@ -51,7 +51,7 @@ Re-import the smaller `spr_ball_1.png` through `spr_ball_6.png`, `spr_squash.png
 
 ![reimport squashes and ball](images/reimportFrames.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
@@ -59,7 +59,7 @@ Re-import the smaller `spr_ball_1.png` through `spr_ball_6.png`, `spr_squash.png
 
 ![import three stretches](images/importStretches.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -67,7 +67,7 @@ When the ball is below 500 pixels it needs to go from squash to stretch frames. 
 
 ![add stretching logic](images/stretchLogic.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -75,7 +75,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. I
 
 https://user-images.githubusercontent.com/5504953/151975686-2b797825-5660-4e45-8b3c-2696005a7b3f.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -83,7 +83,7 @@ If we overlay the last frame of squash with the first frame of stretch, it is ro
 
 ![bad rotation illustration](images/badRotation.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
@@ -98,7 +98,7 @@ So we need to rotate the ball in its center of gravity.  Open up `spr_ball`, `sp
 
 ![center origin on spr_stretch](images/sprStretchCenterOrigin.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -106,7 +106,7 @@ Now we need to readjust the y position for all the bouncing.  We moved the origi
 
 ![turn snap off](images/turnSnapOff.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
@@ -114,7 +114,7 @@ Now you can position the ball pixel by pixel and put it on the ground plane.  Re
 
 ![move ball to ground plane y is 628](images/newYPos.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -122,7 +122,7 @@ Move ball back to top left corner.
 
 ![move ball back to top left corner](images/moveBallBack.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -130,7 +130,7 @@ Now our bouncing point on **y** is `628`.  Previously it was `544`.  So with 628
 
 ![adjust y by 84 units](images/newYPositions.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -138,7 +138,7 @@ In slow motion you can see that the ball is now changing animation states proper
 
 https://user-images.githubusercontent.com/5504953/152091105-f23736b4-54c5-4e0a-8f01-9962fe0eb49f.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -146,7 +146,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. T
 
 https://user-images.githubusercontent.com/5504953/152091132-0ed66867-f410-4d12-bd50-61c79099e6b9.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ___
 

@@ -1,10 +1,10 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Get Ball to Bounce
 
 <sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../horizontal-movement/README.md#user-content-horizontal-movement)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 In the video you watched the physics were created by the animator.  They move the ball accross the screen.  The wider the distance per frame the faster the ball seems to move.  In games, objects move based on game physics.  So we do not animated translation just the different poses of the ball.  
 
@@ -19,7 +19,7 @@ You can work on a large canvas and scale down, or work in actual size.  When dra
 
 ![hand drawn ball on white background in photoshop](images/SingleBallFrame.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
 
@@ -32,7 +32,7 @@ Press **File | Quick Export as PNG** and call it `spr_ball_1` and press <kbd>Sav
 https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 ![import drawn ball to spr_ball](images/importBall.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-b
 
 ![add obj_ball object and assign ball sprite](images/obj_ball.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`BTS`| :small_orange_diamond:
 
@@ -56,7 +56,7 @@ Open the room and select the **Instances** layer.  Drag **Obj_Ball** onto the gr
 
 ![add ball to room](images/putBallInRoom.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
 
@@ -64,7 +64,7 @@ Now record the value of the **Y** position in the room (yours may be different t
 
 ![record value of Y](images/544magicnumber.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -72,7 +72,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. N
 
 ![still ball on ground in game](images/ballDoesNothing.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -80,7 +80,7 @@ Now we want the ball to fall.  Move it to the top of the map so it has room to f
 
 ![move ball to top of level](images/moveBallUp.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -88,7 +88,7 @@ Now gravity is an acceleration in the downward vertical domain.  We can `+=` the
 
 ![add step event and gravity](images/addGravity.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`BTS`| :large_blue_diamond:
 
@@ -96,7 +96,7 @@ With some trial and error try different values. Now *press* the <kbd>Play</kbd> 
 
 https://user-images.githubusercontent.com/5504953/151717264-224f7f4e-0602-436e-a9fe-4a7d2982a23e.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -111,7 +111,7 @@ In code that would be:
 
 ![add bounce to end step](images/endStep.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -120,7 +120,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game an
 
 https://user-images.githubusercontent.com/5504953/151717570-7cff0268-b258-4241-966d-32f8a2937eb3.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -128,7 +128,7 @@ Now in the video there is a non-elastic bounce.  The ball bounces less high as i
 
 ![non elastic bounce drawn out](images/nonElasticBouncing.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`BTS`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -136,7 +136,7 @@ Go back to **obj_ball | End Step Event** and make the bounce inelastic.  Reduce 
 
 ![make inelastic bounce](images/makeInelasticBounce.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -144,7 +144,7 @@ Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game.  
 
 https://user-images.githubusercontent.com/5504953/151718260-bdebb4f3-f4da-4ff1-a6f4-219be11083f4.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`BTS`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -152,7 +152,7 @@ Press the <kbd>Add Event</kbd> and select a **Create** event. Replace the two ma
 
 https://user-images.githubusercontent.com/5504953/151718688-d223ec09-72aa-411e-b9fe-349021fa98bb.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -160,7 +160,7 @@ One of the nice thing about hand animation is that each frame of the ball is not
 
 ![non elastic bounce drawn out](images/nonElasticBouncing.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -168,7 +168,7 @@ Go back into your paint and draw on separate layers 5 more balls freehand with t
 
 https://user-images.githubusercontent.com/5504953/151718921-c3cbf2cb-0a67-43b8-826e-e4e13c5e5cea.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 19.`\|`BTS`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -176,7 +176,7 @@ With all the layers selected remove the background, trim and rescale to be `128`
 
 https://user-images.githubusercontent.com/5504953/151787314-b86bbf26-5078-4abb-b042-8aea10adffb3.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`BTS`| :large_blue_diamond: :large_blue_diamond:
 
