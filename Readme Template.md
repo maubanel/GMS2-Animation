@@ -2,7 +2,7 @@
 
 ### Add Title
 
-<sub>[previous](../) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -148,5 +148,5 @@ ___
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../)|
 |---|---|---|
