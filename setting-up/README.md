@@ -48,7 +48,7 @@ Now you should have an empty game with the defaul room! Change the room name to 
 
 ##### `Step 5.`\|`ANIM`| :small_orange_diamond:
 
-Rename the room to `rm_ball_bounce`. Open the room up and select the **Background** layer.  *Double click* the **Colour** button and select the second most **white** white.  I don't like picking pure white for an entire background as it is too much on the eyes.
+ Open the room up and select the **Background** layer.  *Double click* the **Colour** button and select the second most **white** white.  I don't like picking pure white for an entire background as it is too much on the eyes.
 
 ![select white background color and rename room to rm_ball_bounce](images/setBackgroundColor.png)
 
