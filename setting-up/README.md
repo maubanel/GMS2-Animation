@@ -58,6 +58,8 @@ Now you should have an empty game with the defaul room! Change the room name to 
 
 Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
+![download spr_line.png](images/sprite.png)
+
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
