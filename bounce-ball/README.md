@@ -39,12 +39,12 @@ Select **Image | Image Size**. Scale the longest axis to   `128`.  Press the **I
 
 Press **File | Quick Export as PNG** and call it `spr_ball_1` and press <kbd>Save</kbd>.
 
+https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ANIM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-https://user-images.githubusercontent.com/5504953/151716323-79489b7d-e404-4fbf-bdf2-d0b09cb3f61f.mp4
 *Right click* on **Sprites** and select **New | Sprite** and name it `spr_ball`. Press the <kbd>Import</kbd> button and import the sprite you just created. Now you should have a dark ball imported into the sprite.
 
 ![import drawn ball to spr_ball](images/importBall.png)
