@@ -72,7 +72,7 @@ Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
 ##### `Step 8.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open up the new tileset and assign `spr_line`.  Change the **Height** and **Width** to `32`.
+Open up the new tileset and assign `spr_line`.  Change the **Tile Height** and **Tile Width** to `32`.
 
 ![create Grond tile layer and add ts_pencil_line to it](images/nameSize.png)
 
