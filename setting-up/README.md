@@ -80,7 +80,7 @@ Open up the new tileset and assign `spr_line`.  Change the **Tile Height** and *
 
 ##### `Step 9.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
+Go back to the room and press the <kbd>Tile Layer</kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
 
 ![create Grond tile layer and add ts_pencil_line to it](images/addGroundLayer.png)
 
