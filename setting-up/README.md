@@ -13,7 +13,7 @@ Lets look at a ball animation and start the project up.
 ---
 
 
-##### `Step 1.`\|`BTS`|:small_blue_diamond:
+##### `Step 1.`\|`ANIM`|:small_blue_diamond:
 
 Please click and watch this video on how an animator would go about animating a 2-d ball using traditional techniques.
 
@@ -21,7 +21,7 @@ Please click and watch this video on how an animator would go about animating a 
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`ANIM`|:small_blue_diamond: :small_blue_diamond: 
 
 Accept the **[Git Hub Classroom Link](https://classroom.github.com/a/C3wXzkmi)** with the starter project. Press the <kbd>Accept this assignment</kbd> button.
 
@@ -29,7 +29,7 @@ Accept the **[Git Hub Classroom Link](https://classroom.github.com/a/C3wXzkmi)**
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`ANIM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you will go to a screen that says it will take some time to create the project.  Press the refresh on your browser and you will see a link to your newly created **GitHub** repository.  Click the link.  The press the <kbd>Code</kbd> button and select `Open with GitHub Desktop`.
 
@@ -41,7 +41,7 @@ Now you will go to a screen that says it will take some time to create the proje
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`ANIM`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you give the app permission and select the directory of where you would like to clone.  When you decide press the <kbd>Clone</kbd> button.
 
@@ -49,7 +49,7 @@ Now you give the app permission and select the directory of where you would like
 
 ![](../images/line2.png)
 
-##### `Step 5.`\|`BTS`| :small_orange_diamond:
+##### `Step 5.`\|`ANIM`| :small_orange_diamond:
 
 Navigate to the project and open **GMS2-Animation.yyp**.
 
@@ -57,7 +57,7 @@ Navigate to the project and open **GMS2-Animation.yyp**.
 
 ![](../images/line2.png)
 
-##### `Step 6.`\|`BTS`| :small_orange_diamond: :small_blue_diamond:
+##### `Step 6.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond:
 
 Now you have a basic empty **GML** project with a **Room0** and a sprite for a tile to mimic the line in the video above.
 
@@ -65,7 +65,7 @@ Now you have a basic empty **GML** project with a **Room0** and a sprite for a t
 
 ![](../images/line2.png)
 
-##### `Step 7.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 7.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Rename the room to `rm_ball_bounce`. Open the room up and select the **Background** layer.  *Double click* the **Colour** button and select the second most **white** white.  I don't like picking pure white for an entire background as it is too much on the eyes.
 
@@ -73,7 +73,7 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 ![](../images/line2.png)
 
-##### `Step 8.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 *Right click* on **Tiles** and select **New | Tile** and name it `ts_pencil_line`.
 
@@ -81,7 +81,7 @@ Rename the room to `rm_ball_bounce`. Open the room up and select the **Backgroun
 
 ![](../images/line2.png)
 
-##### `Step 9.`\|`BTS`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 9.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
 
@@ -89,7 +89,7 @@ Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`
 
 ![](../images/line2.png)
 
-##### `Step 10.`\|`BTS`| :large_blue_diamond:
+##### `Step 10.`\|`ANIM`| :large_blue_diamond:
 
 Select the tile layer and the pencil tool and start to draw a line along the bottom of the screen. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. You should have a white-ish background with a pencil line ground plane at the bottom (I drew it in **ProCreate** on my ipad).
 
@@ -99,11 +99,11 @@ https://user-images.githubusercontent.com/5504953/151715425-c6bfc3bb-72eb-4079-b
 ___
 
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Get Ball to Bounce">
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
-[home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)|
+[home](.../README.md#user-content-gms2-animation---table-of-contents) | [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)|
 |---|---|
