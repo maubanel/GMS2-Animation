@@ -62,7 +62,6 @@ Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
 ##### `Step 7.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
 *Right click* on **Tiles** and select **New | Tile** and name it `ts_pencil_line`.
 
 ![add new tile called ts_pencil_line](images/pencilLineTS.png)
