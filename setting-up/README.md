@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)</sub>
+<sub>[home](../README.md#user-content-gms2-animation---table-of-contents) • [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)</sub>
 
 ![](../images/line3.png)
 
@@ -105,5 +105,5 @@ ___
 
 ![](../images/line.png)
 
-[home](.../README.md#user-content-gms2-animation---table-of-contents) | [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)|
+[home](../README.md#user-content-gms2-animation---table-of-contents) | [next](../bounce-ball/README.md#user-content-get-ball-to-bounce)|
 |---|---|
