@@ -15,6 +15,13 @@ In the video you watched the physics were created by the animator.  They move th
 
 ##### `Step 1.`\|`ANIM`|:small_blue_diamond:
 
+Open up **P4v**.  Select the top folder of the **GameMaker** project. Press the <kbd>Checkout</kbd> button.  Checkout out all files in P4V so that they are all writable (otherwise they will be read only and none of the changes will be saved). Select a **New** changelist and add a message describing the unit of work you will be performing. Press the <kbd>OK</kbd> button.
+
+Open up the project you are working on in **GameMaker**. 
+
+![checkout files and create new changelist](images/checkoutFiles.png)
+
+
 You can work on a large canvas and scale down, or work in actual size.  When drawing with a tablet I like to work on a larger image then scale down. Pick any 2-D pixel art package like **Photoshop** or **ProCreate**.  Select a separate white layer for the background and a layer for the ball.  Pick a pencil tool to make it look more old school.  I selected a 1024 x 1024 square that I will scale down later.  I drew a circle in the center with room for the bounce (wider) and stretch (diagonal) so all the key frames will fit in this shape.  It should look something like the below.
 
 ![hand drawn ball on white background in photoshop](images/SingleBallFrame.jpg)
