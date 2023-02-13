@@ -25,7 +25,7 @@ In this walk through:
 
 
 <!-- TOC -->
-## GMS2 Background, Tiles & Sprites - Table of Contents
+## GMS2 Animation - Table of Contents
 
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
 
