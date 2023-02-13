@@ -12,7 +12,6 @@ Chapter introduction here.
 
 ---
 
-
 ##### `Step 1.`\|`ANIM`|:small_blue_diamond:
 
 ![alt_text](images/.png)
