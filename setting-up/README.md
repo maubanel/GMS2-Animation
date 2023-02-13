@@ -74,19 +74,24 @@ Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
 Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
 
-![create Grond tile layer and add ts_pencil_line to it](images/addGroundLayer.png)
+![assign tile layer the sprite and change size to 32 x 32](images/nameSize.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Open up the new tileset and assign `spr_line`.  Change the **Height** and **Width** to `32`.
 
-Select the tile layer and the pencil tool and start to draw a line along the bottom of the screen. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. You should have a white-ish background with a pencil line ground plane at the bottom (I drew it in **ProCreate** on my ipad).
+![create Grond tile layer and add ts_pencil_line to it](images/.png)
 
-https://user-images.githubusercontent.com/5504953/151715425-c6bfc3bb-72eb-4079-b7fa-c0cef79956e2.mp4
+
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ANIM`| :large_blue_diamond:
+
+Select the tile layer and the pencil tool and start to draw a line along the bottom of the screen. Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. You should have a white-ish background with a pencil line ground plane at the bottom (I drew it in **ProCreate** on my ipad).
+
+https://user-images.githubusercontent.com/5504953/151715425-c6bfc3bb-72eb-4079-b7fa-c0cef79956e2.mp4
 
 Open up **P4V**.  Select the top folder and press the **Add** button.  We want to add all the new files we created during this last session.  Add these files to the last change list you used at the begining of the session (in my case it was `Spaceship I portion of walkthrough`). Press the <kbd>OK</kbd> button.
 
