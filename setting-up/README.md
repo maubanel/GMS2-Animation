@@ -72,17 +72,17 @@ Download [spr_line.png](../assets/spr_line.png) onto your local hard drive.
 
 ##### `Step 8.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
+Open up the new tileset and assign `spr_line`.  Change the **Height** and **Width** to `32`.
 
-![assign tile layer the sprite and change size to 32 x 32](images/nameSize.png)
+![create Grond tile layer and add ts_pencil_line to it](images/nameSize.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ANIM`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-Open up the new tileset and assign `spr_line`.  Change the **Height** and **Width** to `32`.
 
-![create Grond tile layer and add ts_pencil_line to it](images/.png)
+Go back to the room and press the <kbd>Tile Layer<kbd> button.  Call it `Ground`.  Select `ts_pencil_line` as the tileset.
 
+![create Grond tile layer and add ts_pencil_line to it](images/addGroundLayer.png)
 
 
 ![](../images/line2.png)
