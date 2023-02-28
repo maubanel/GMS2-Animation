@@ -9,8 +9,7 @@ This walkthrough also assumes you have access to Photoshop (or another pixel bas
 This is a just a primer on game animation and not a detailed guide.  It is just to get you up and running in developing raster based 2-d animation assets.  We will end with creating controls for a playable sprite. 
 
 * Tested on GameMake Studio 2022.11.1.75
-* [GitHub Account](https://github.com) (free)
-* [GitHub Desktop](https://desktop.github.com)
+
 
 In this walk through:
 
