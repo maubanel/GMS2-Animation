@@ -176,7 +176,7 @@ Now add a switch to the **spr_idle** when the player is not moving (if the playe
 
 ##### `Step 21.`\|`ANIM`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now I forgot to adjust the **Origin** of the sprite.  So the player shifts **y** position when changing states.  Open up `spr_player` and set the **Origin** to `Bottom Center`.  Press he <kbd>Play</kbd> button again, and we have it working correctly.
+Now *press* the <kbd>Play</kbd> button in the top menu bar to launch the game. Now I forgot to adjust the **Origin** of the sprite.  So the player shifts **y** position when changing states.  Open up `spr_player` and set the **Origin** to `Bottom Center`.  Press the <kbd>Play</kbd> button again, and we have it working correctly.
 
 https://user-images.githubusercontent.com/5504953/152337340-9e898854-5417-4a18-9d5a-fc4130628a1f.mp4
 
